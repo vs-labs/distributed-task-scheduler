@@ -30,6 +30,6 @@ cd worker
 ./worker
 
 #run mts
-cd mts
-./mts
+cd scheduler
+./scheduler
 ```
